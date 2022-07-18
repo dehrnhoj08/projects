@@ -1,0 +1,3 @@
+﻿  Lottery_FinalExam_Eugenio.cpp
+C:\Users\Rhed\Documents\C++ Assignments\Lottery_FinalExam_Eugenio\Lottery_FinalExam_Eugenio\Lottery_FinalExam_Eugenio.cpp(68,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lottery_FinalExam_Eugenio.vcxproj -> C:\Users\Rhed\Documents\C++ Assignments\Lottery_FinalExam_Eugenio\x64\Debug\Lottery_FinalExam_Eugenio.exe

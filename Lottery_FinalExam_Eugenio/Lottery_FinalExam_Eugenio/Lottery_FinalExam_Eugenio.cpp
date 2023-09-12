@@ -9,7 +9,7 @@ class lotteryNumbers
 private:
     int* arr;
     int maxSize;
-    //int nElems;
+    int nElems;
 public:
     lotteryNumbers(int max);
     lotteryNumbers(int max, char play);
